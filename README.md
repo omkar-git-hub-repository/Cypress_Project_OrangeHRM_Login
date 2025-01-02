@@ -49,7 +49,7 @@ Before running this project, ensure you have:
 
 Run Cypress:
 
-<b> 'npx cypress open' </b>
+<b> 'npx cypress open' </b> <br>
 This command will open the Cypress Test Runner.
 
 In the Cypress Test Runner:
