@@ -1,0 +1,16 @@
+[ 
+    {
+        "validName": "Admin",
+        "validPassword" : "admin123",
+
+        "invalidName": "johnDoe",
+        "invalidPassword" : "john123",
+
+        "numverValue" : "45454",
+        "blankValue" : ""
+        
+
+    }
+
+    
+]
